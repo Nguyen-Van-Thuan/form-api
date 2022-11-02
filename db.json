@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post Item 1",
+      "author": "Mason Leo",
+      "description": "Id values are not mutable. Any id value in the body of your PUT or PATCH request will be ignored. "
+    },
+    {
+      "id": 2,
+      "title": "Post Item 2",
+      "author": "Selena",
+      "description": "You can access your fake API from anywhere using CORS and JSONP, You can load remote schemas."
+    },
+    {
+      "id": 3,
+      "title": "Post Item 3",
+      "author": "Aleart",
+      "description": "Only a value set in a POST request will be respected, but only if not already taken."
+    },
+    {
+      "id": 4,
+      "title": "Post Item 4",
+      "author": "Princes",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card‘s content."
+    },
+    {
+      "title": "Post Item 5",
+      "author": "Nguyen Van Thuan",
+      "description": "Id values are not mutable. Any id value in the body of your PUT or PATCH request will be ignored.",
+      "id": 5
+    }
+  ]
+}

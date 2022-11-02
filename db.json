@@ -29,6 +29,12 @@
       "author": "Nguyen Van Thuan",
       "description": "Id values are not mutable. Any id value in the body of your PUT or PATCH request will be ignored.",
       "id": 5
+    },
+    {
+      "title": "Post Item 6",
+      "author": "Messi ",
+      "description": "Id values are not mutable. Any id value in the body of your PUT or PATCH request will be ignored",
+      "id": 6
     }
   ]
 }

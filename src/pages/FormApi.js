@@ -13,8 +13,8 @@ const FormApi = () => {
   const onSubmit = data => {
     try {
       axios({
-        method: 'post',
-        url: 'http://localhost:3004/posts',
+        method: 'post', //
+        url: `http://localhost:3004/posts`,
         data
       }).then(function (response) {
         console.log(response.data);

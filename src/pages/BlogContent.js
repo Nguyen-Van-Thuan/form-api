@@ -17,7 +17,7 @@ const BlogContent = () => {
       console.log(error);
     }
   }, [])
-  console.log(listPost, "listPost");
+  // console.log(listPost, "listPost");
 
   return (
     <div className='container mt-5'>
